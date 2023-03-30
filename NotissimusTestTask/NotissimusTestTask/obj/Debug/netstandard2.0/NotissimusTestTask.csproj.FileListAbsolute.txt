@@ -1,0 +1,15 @@
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.0\NotissimusTestTask.deps.json
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.0\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.0\NotissimusTestTask.pdb
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\refint\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\NotissimusTestTask.pdb
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.0\ref\NotissimusTestTask.dll

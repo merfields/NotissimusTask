@@ -1,0 +1,16 @@
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.1\NotissimusTestTask.deps.json
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.1\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\bin\Debug\netstandard2.1\NotissimusTestTask.pdb
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\MVVM\View\MainPage.xaml.g.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\refint\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\NotissimusTestTask.pdb
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\ref\NotissimusTestTask.dll
+C:\Users\Kirill\Desktop\NotissimusTestTask\NotissimusTestTask\NotissimusTestTask\obj\Debug\netstandard2.1\MVVM\View\SerilizedToJsonOfferView.xaml.g.cs
